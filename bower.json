@@ -1,0 +1,14 @@
+{
+  "name": "aideas",
+  "version": "1.0.0",
+  "authors": [
+    "Cecilia De Conto <deconto.cecilia@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor"
+  ],
+  "dependencies": {}
+}
