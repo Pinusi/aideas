@@ -14,7 +14,7 @@ class Home extends React.Component {
         return <section id="home" className="home">
             <img className="logo" src={logo}/>
             <div className="social_links">
-                <a href="mailto:info@aideas.com"><img src={mail_icon}/></a>
+                <a href="mailto:info@aideas.ai"><img src={mail_icon}/></a>
             </div>
             <div className="yellow_section">
                 <div className="row">
