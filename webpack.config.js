@@ -12,12 +12,14 @@ const developmentEntry = [
 	'webpack-dev-server/client?http://localhost:3000',
 	'webpack/hot/only-dev-server',
 	'./js/index',
-	'./styles/app.scss'
+	'./styles/app.scss',
+	'aos/dist/aos.css'
 ]
 
 const productionEntry = [
 	'./js/index',
-	'./styles/app.scss'
+	'./styles/app.scss',
+	'aos/dist/aos.css'
 ]
 
 const developmentPlugins = [
@@ -57,7 +59,7 @@ const productionPlugins = [
 const productionLoaders = [
 	{ 
 		test: /\.js$/, 
-		loaders: ['react-hot','babel-loader'], 
+		loaders: ['react-hot-loader','babel-loader'], 
 		exclude: /node_modules/ 
 	},
 	{ 
@@ -79,7 +81,7 @@ const productionLoaders = [
 const developmentLoaders = [
 	{ 
 		test: /\.js$/, 
-		loaders: ['react-hot','babel-loader'], 
+		loaders: ['react-hot-loader','babel-loader'], 
 		exclude: /node_modules/ 
 	},
 	{ 

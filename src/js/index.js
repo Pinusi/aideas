@@ -3,7 +3,7 @@ import React from 'react'
 import { hashHistory, Router, Route, IndexRoute } from 'react-router'
 import App from './components/App'
 
-const containerEl = document.getElementById("main");
+const containerEl = document.getElementsByTagName("BODY")[0];
 
 setTimeout(() => { //fixes issues with FOUC
     render((
@@ -12,6 +12,7 @@ setTimeout(() => { //fixes issues with FOUC
                 <Route path="/"/>
                 <Route path="team"/>
                 <Route path="vision"/>
+                <Route path="services"/>
                 <Route path="contacts"/>
             </Route>
         </Router>
