@@ -44,6 +44,7 @@ class Menu extends React.Component {
                         <ul className={(this.state.langOpened ? 'active' : '')}>
                             <li onClick={() => changeLanguage("it")}>it</li>
                             <li onClick={() => changeLanguage("eng")}>eng</li>
+                            <li onClick={() => changeLanguage("es")}>es</li>
                         </ul>
                     </span>
                     <span className="logo"><img src={logo}/></span>
@@ -63,6 +64,7 @@ class Menu extends React.Component {
                         <ul className={(this.state.langOpened ? 'active' : '')}>
                             <li onClick={() => changeLanguage("it")}>it</li>
                             <li onClick={() => changeLanguage("eng")}>eng</li>
+                            <li onClick={() => changeLanguage("es")}>es</li>
                         </ul>
                     </span>
                     <span className="logo"><img src={logo}/></span>

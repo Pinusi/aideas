@@ -1,0 +1,124 @@
+.team{
+  padding-top: 153px;
+
+  .title_1{
+    font-weight: 800;
+    color: $violet;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    line-height: 35px;
+  }
+
+  .title_2{
+    font-weight: 800;
+    color: $yellow;
+    text-transform: uppercase;
+    font-size: 290px;
+    line-height: 240px;
+    padding-bottom: 125px;
+    margin-left: -736px;
+
+    @media (max-width: 1229px) {
+      font-size: 210px;
+      line-height: 180px;
+      margin-left: -530px;
+    }
+
+    @media (max-width: 892px) {
+      font-size: 160px;
+      line-height: 140px;
+      margin-left: -400px;
+    }
+
+    @media (max-width: 757px) {
+      line-height: 110px;
+      font-size: 120px;
+      margin-left: -302px;
+    }
+
+    @media (max-width: 575px) {
+      line-height: 60px;
+      font-size: 74px;
+      margin-left: -180px;
+      padding-bottom: 80px;
+    }
+  }
+
+  .positioner{
+    width: 1px;
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
+
+  .name{
+    font-weight: 700;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 1px;
+    color: #fff;
+    background-color: $violet;
+    text-transform: uppercase;
+    display: inline-block;
+    line-height: 24px;
+    padding: 22px 5px 12px 40px;
+    margin-top: -20px;
+    margin-bottom: 18px;
+  }
+
+  .picture{
+    width: (646/2)+px;
+    height: (496/2)+px;
+    display: block;
+
+    @media (max-width: 723px) {
+            width: 100%;
+            height: auto;
+        }
+  }
+
+  .description{
+    font-size: 18px;
+    line-height: 23px;
+  }
+
+  .profiles{
+    padding-left: 150px;
+    padding-right: 150px;
+
+    @media (max-width: 1263px) {
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+
+    @media (max-width: 1060px) {
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
+    @media (max-width: 992px) {
+      padding-left: 60px;
+      padding-right: 60px;
+    }
+  }
+
+  .social{
+    margin-top: 25px;
+    margin-bottom:128px;
+
+    @media (max-width: 992px) {
+      margin-bottom:68px;
+    }
+
+    a {
+      margin-right: 10px;
+
+      img{
+        width: 43px;
+        height: 42px;
+      }
+    }
+  }
+}
