@@ -80,7 +80,7 @@ export default {
             txt_title: "vision",
             txt_subtitle: "_ perche' AIDEAS",
             txt_main: "Nel mondo delle imprese e delle start up, in Italia cosi’ come nel Regno Unito, si cerca quasi sempre di inventare nuovi servizi o addirittura nuovi bisogni per il consumatore finale e ormai spesso ci si scontra con settori saturi. Dalla esperienza di lavoro personale fatta nell’ambito tecnologico, ci siamo invece accorti del <b>potenziale di una visione alternativa</b>",
-            txt_highlight: 'quella in cui le nuove tecnologie, soprattutto nel campo dell’intelligenza artificiale e del "big data", possano invece rivelarsi un elemento importante e innovativo per migliorare, cambiare o rinnovare servizi e società gia esistenti, migliorando il business della societa e/o rendendo l’esperienza dell’utente finale ancora piu unica e semplice.'
+            txt_highlight: "quella in cui le nuove tecnologie, soprattutto nel campo dell’intelligenza artificiale e del 'big data', possano invece rivelarsi un elemento importante e innovativo per migliorare, cambiare o rinnovare servizi e società gia esistenti. In AIDEAS crediamo che lo sviluppo e l'implementazione di un nuovo modello di business nelle aziende migliori la qualità dei servizi offerti, aumenti la produttività, prepari l'azienda per un ambiente più competitivo e favorisca il rapporto e l’esperienza dell’utente finale."
         },
         services: {
             txt_title: "servizi",
@@ -116,15 +116,15 @@ export default {
             }
         ],
         home: {
-            txt_yellow: "is an innovative advisory company for big and small businesses",
-            txt_vertical: "key focus areas",
-            main_txt: "AIDEAS provides consultancy for developing and integrating high tech and artificial intelligence into businesses. The main objective is to improve both the business model, making it more efficient, and services that the company gives. The innovation that AIDEAS provides is given by the team and offered services. <br><br><br>The team includes experts from <b>AI, Data Science, Economy and Finance, Legal and Telecom.</b> This combination is unique and provides highly strategic and effective solutions.<br><br>The service that AIDEAS offers includes:",
+            txt_yellow: "is an innovative advisory company for large and small businesses",
+            txt_vertical: "key areas",
+            main_txt: "AIDEAS provides consultancy services aimed to the development and integration of high tech and artificial intelligence into the business. The main objective is to improve the efficiency of both the business model and the services offered by the company. The innovation AIDEAS proposes emerges from the team and the services offered. <br><br><br>The team includes experts from <b>AI, Data Science, Economy and Finance, Legal and Telecom.</b> This combination is unique and provides highly strategic and effective solutions.<br><br>The service that AIDEAS offers includes:",
             point_1_label: "strategy",
-            point_1_txt: "Business analysis of the current company situation and planning on how to integrate AI technologies into the business in order to improve it.",
+            point_1_txt: "Analysis of the company´s current business model and planning on how to integrate AI technologies into the business.",
             point_2_label: "finance",
-            point_2_txt: "Support to access the credit required for the implementation of the project through a network of accelerators, incubators, angel investors, venture capitals.",
+            point_2_txt: "Support to access the credit required for the implementation of the project through a network of accelerators, incubators, angel investors and venture capital firms.",
             point_3_label: "team",
-            point_3_txt: "Set up of the team responsible for implementing ideas and integrating them into the business. The objective is to allow the company to become indipendent in managing the new technology introduced."
+            point_3_txt: "Set up of the team responsible for implementing ideas and integrating them into the business. The objective is to allow the company to become independent in managing the new technology introduced."
         },
         team: [
             {
@@ -166,14 +166,14 @@ export default {
         vision: {
             txt_title: "vision",
             txt_subtitle: "_ why AIDEAS",
-            txt_main: "Startups and companies, in Italy, Spain and UK usually try to come up with new services or new needs for the final consumer. However, they tend to face saturated sectors. From personal working experience in the tech world, we have realized that there is a <b>potential for an alternative vision.</b>",
+            txt_main: "Startups and companies in Italy, Spain and UK usually try to come up with new services or new needs for the final consumer. However, they tend to face swamped sectors. Through our personal working experience in the tech world, we have realized that there is a <b>potential for an alternative vision.</b>",
             txt_highlight: 'AIDEAS fosters a new vision oriented to the application of new technologies, especially from AI and "Big Data" sectors, as an innovative element for the renovation and transformation of companies and their existing businesses. In AIDEAS we believe that the development and implementation of a new business in the company improves the quality of the services, increases the productivity, prepares the company to face a more competitive environment and favours the relationship with the final customer.'
         },
         services: {
             txt_title: "services",
             txt_subtitle: "_ our offer",
-            txt_main: "Our objective is to help companies to develop a new strategic vision based on AI technologies and big data adoption. This implies a deep analysis of the services provided currently by the company and subsequently an analisys of how those services could be improved.<br></br><br></br>The team offers a unique and multidisciplinar blend of skillsets (AI, Data Science, Economy and Finance, Legal, Telecom). The original profile combination allows to provide the final client with a complete and innovative strategic vision.",
-            txt_secondary: "The <b>actual implementation</b> is a key element in AIDEAS proposal. AIDEAS gives the business access to <b>credit</b> through a network of accelerators, incubators, angel investors e venture capitals.<br></br>Moreover, AIDEAS helps the company to train a <b>team</b> which will be able to implement the technology innovation and to mantain it in the future. This is key for the company to be indipendent in his future development."
+            txt_main: "Our objective is to help companies to develop a new strategic vision based on AI technologies and big data adoption. This implies a deep analysis of the range of services provided by the company and subsequently an analisys of how those services could be improved.<br></br><br></br>The team offers a unique and multidisciplinar blend of skillsets (AI, Data Science, Economy and Finance, Legal, Telecom). The original profile combination allows to provide the final client with a complete and innovative strategic vision.",
+            txt_secondary: "The <b>actual implementation</b> is a key element of AIDEAS' proposal. AIDEAS provides support to companies that requires access to <b>credit</b> through a network of accelerators, incubators, angel investors and venture capitals firms.<br></br>Moreover, AIDEAS helps the company to train a <b>team</b> which will be able to implement the technology innovation and to mantain it in the future. This is key for the company to become independent in the future development."
         },
         contacts: {
             txt_title: "Contacts"
@@ -203,7 +203,7 @@ export default {
             }
         ],
         home: {
-            txt_yellow: "es una consultora de innovación dirigida a grandes y pequeñas empresas",
+            txt_yellow: "es una sociedad de consultoría innovadora dirigida a grandes y pequeñas empresas",
             txt_vertical: "áreas de intervención",
             main_txt: "AIDEAS ofrece un servicio de consultoría enfocado al desarrollo e integración de alta tecnología e Inteligencia Artificial en el mundo de la empresa con el objetivo de hacer más eficiente su modelo de negocio. El equipo humano y la calidad del servicio constituyen la clave del espíritu innovador de AIDEAS. <br><br><br>El equipo de AIDEAS está formado por expertos en <b>Inteligencia Artificial, Data Science, Economía y Finanzas, Legal y Telecomunicaciones.</b> Esta combinación de perfiles permite ofrecer soluciones estratégicas y prácticas al mismo tiempo.<br><br>La propuesta innovadora de AIDEAS se sustenta sobre 3 pilares fundamentales:",
             point_1_label: "estrategia",
@@ -245,7 +245,7 @@ export default {
             {
                 image: {blanca_profile}['blanca_profile'],
                 full_name: "blanca zamora leria",
-                bio: "Trabaja como consultora en el departamento de Risk and Financial Services de Moody´s Analytics. Su trabajo consiste en el diseño y desarrollo de modelos de riesgo de crédito para bancos y fondos de asset managament en Europa, África y Oriente Medio. Tiene experiencia en el ámbito de la contabilidad y análisis de riesgo de crédito en el ámbito corporativo. Ha trabajado en consultoría fiscal para fusiones y adquisiciones. Es licenciada en Derecho, en Administración y Dirección de Empresas y cuenta con un Master en Finanzas.",
+                bio: "Trabaja como consultora en el departamento de Risk and Financial Analytics de Moody´s. Su trabajo consiste en el diseño y desarrollo de modelos de riesgo de crédito para bancos y fondos de asset managament en Europa, África y Oriente Medio. Tiene experiencia en el ámbito de la contabilidad y análisis de riesgo de crédito en el ámbito corporativo. Ha trabajado en consultoría fiscal para fusiones y adquisiciones. Es licenciada en Derecho, en Administración y Dirección de Empresas y cuenta con un Master en Finanzas.",
                 mail: "zamora@aideas.ai",
                 linkedin: "https://www.linkedin.com/in/blanca-zamora-leria-897b0784/"
             }
@@ -253,7 +253,7 @@ export default {
         vision: {
             txt_title: "vision",
             txt_subtitle: "_ por qué AIDEAS",
-            txt_main: "El mundo de la empresa y de las startups en España, Italia y Reino Unido, tiende a crear nuevos servicios y necesidades en el consumidor final, topándose a menudo con sectores saturados. En AIDEAS nos hemos dado cuenta, a través de la experiencia personal en el ámbito tecnológico, del <b>potencial que tiene una visión alternativa.</b>",
+            txt_main: "El mundo de la empresa y de las startups en España, Italia y Reino Unido tiende a crear nuevos servicios y necesidades en el consumidor final, topándose a menudo con sectores saturados. En AIDEAS nos hemos dado cuenta, a través de la experiencia personal en el ámbito tecnológico, del <b>potencial que tiene una visión alternativa.</b>",
             txt_highlight: 'AIDEAS promueve una visión enfocada al uso de nuevas tecnologías, especialmente en el campo de la Inteligencia Artificial y Big Data, como elemento innovador para la renovación y transformación de empresas y su oferta de servicios. En AIDEAS creemos que el desarrollo e implantación de un nuevo modelo de negocio en la empresa mejora la calidad de los servicios prestados, aumenta la productividad, prepara a la empresa para un entorno más competitivo y repercute positivamente en la relación y experiencia del consumidor final.'
         },
         services: {
