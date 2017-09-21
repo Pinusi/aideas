@@ -12,7 +12,7 @@ export default {
                 link: '/'
             },
             {
-                txt: 'Team',
+                txt: 'People',
                 link: 'team'
             },
             {
@@ -99,7 +99,7 @@ export default {
                 link: '/'
             },
             {
-                txt: 'Team',
+                txt: 'People',
                 link: 'team'
             },
             {
@@ -186,7 +186,7 @@ export default {
                 link: '/'
             },
             {
-                txt: 'Equipo',
+                txt: 'People',
                 link: 'team'
             },
             {

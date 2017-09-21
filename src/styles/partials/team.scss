@@ -6,7 +6,7 @@
     color: $violet;
     text-transform: uppercase;
     text-align: center;
-    font-size: 30px;
+    font-size: 50px;
     line-height: 35px;
   }
 
@@ -14,34 +14,34 @@
     font-weight: 800;
     color: $yellow;
     text-transform: uppercase;
-    font-size: 290px;
+    font-size: 230px;
     line-height: 240px;
     padding-bottom: 125px;
-    margin-left: -736px;
+    margin-left: -394px;
 
     @media (max-width: 1229px) {
       font-size: 210px;
       line-height: 180px;
-      margin-left: -530px;
+      margin-left: -344px;
     }
 
     @media (max-width: 892px) {
       font-size: 160px;
       line-height: 140px;
-      margin-left: -400px;
+      margin-left: -249px;
     }
 
     @media (max-width: 757px) {
       line-height: 110px;
       font-size: 120px;
-      margin-left: -302px;
+      margin-left: -202px;
     }
 
     @media (max-width: 575px) {
-      line-height: 60px;
-      font-size: 74px;
-      margin-left: -180px;
-      padding-bottom: 80px;
+      line-height: 108px;
+    font-size: 96px;
+    margin-left: -148px;
+    padding-bottom: 80px;
     }
   }
 

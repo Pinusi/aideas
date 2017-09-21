@@ -50,9 +50,9 @@ class Team extends React.Component {
         }
 
         return <section id="team" className="team">
-            <div className="title_1">the</div>
+            <div className="title_1">advisory</div>
             <div className="positioner">
-                <div className="title_2">founders</div>
+                <div className="title_2">board</div>
             </div>
             { profiles_html }
         </section>
